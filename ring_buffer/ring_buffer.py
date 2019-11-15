@@ -3,6 +3,7 @@ class RingBuffer:
     self.capacity = capacity
     self.current = 0
     self.storage = [None]*capacity
+    # Initial commit 
 
   def append(self, item):
     pass
