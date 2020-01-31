@@ -33,6 +33,7 @@ for name_2 in names_2:
         if name_1 in storage == name_2:
 # Then append those values to the duplicates array
             duplicates.append(name_1)
+print(duplicates)
 
 
 end_time = time.time()
