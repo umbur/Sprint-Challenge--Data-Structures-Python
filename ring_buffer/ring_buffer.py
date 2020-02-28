@@ -26,3 +26,4 @@ buffer.append('b')
 buffer.append('c')
 buffer.append('d')
 print(buffer.get())
+# Completes MVP
